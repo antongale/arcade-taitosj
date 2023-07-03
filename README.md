@@ -1,5 +1,5 @@
 # [Taito System SJ](https://www.system16.com/hardware.php?id=634)
-<p>Thank you to the following members of the MiSTer community: Boogermann, misterretrowolf, Sorgelig, & Jotego.</p>
+<p>Thank you to the following members of the FPGA gaming community: Boogermann, misterretrowolf, DyreSchlock, Sorgelig, & Jotego.</p>
 
 <p>The Taito System SJ was manufactured by Taito in 1982.   The Taito System SJ featured hardware specifications that were relatively advanced for its time and can run several games.  The most recognizable games in the collection are Elevator Action and Jungle King.  </p>
 
@@ -9,7 +9,7 @@
 <strong>Video Hardware:</strong> 3 seperate independantly scrollable tile maps and adjustable priorities, a 4th layer is dedicated to 'objects' (sprites).   
 
 <h2>Compatible Platforms</h2>
-<li>MiSTer FPGA</li>
+<li>Analogue Pocket</li>
 
 <h2>Compatible Games</h2>
 <blockquote>
