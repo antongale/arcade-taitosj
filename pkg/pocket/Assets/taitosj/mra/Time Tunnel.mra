@@ -53,6 +53,6 @@
 		<part repeat="0x0F00"> 00 </part>
 	</rom>
 	<rom index="1">
-		<part>1</part>
+		<part>0</part>
 	</rom>			
 </misterromdescription>
