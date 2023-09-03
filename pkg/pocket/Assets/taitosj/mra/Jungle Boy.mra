@@ -1,0 +1,61 @@
+<misterromdescription>
+	<name>Jungle Boy</name>
+	<mameversion>0245</mameversion>
+	<setname>jungleb</setname>
+	<parent>junglek</parent>
+	<mratimestamp>202304140600</mratimestamp>
+	<year>1983</year>
+	<manufacturer>Taito</manufacturer>
+	<category>Platform</category>
+	<rbf>TaitoSJ</rbf>
+	<rotation>horizontal</rotation>
+	<joystick>8-way</joystick>
+	<switches default="00,80,FF,00,00,00,00,00">
+		<dip bits="8,9" name="Clearing Bonus" ids="No Bonus,Time X 1,Time X 2,Time X 3"/>
+		<dip bits="11,12" name="Lives" ids="3,4,5,6"/>
+		<dip bits="13" name="Test Mode" ids="Off, On"/>
+		<dip bits="14" name="Flip Screen" ids="Off, On"/>
+		<dip bits="15" name="Cabinet" ids="Cocktail, Upright"/>
+		<dip bits="16,19" name="Coin A" ids="9C1C,8C1C,7C1C,6C1C,5C1C,4C1C,3C1C,2C1C,1C8C,1C7C,1C6C,1C5C,1C4C,1C3C,1C2C,1C1C"/>
+		<dip bits="20,23" name="Coin B" ids="9C1C,8C1C,7C1C,6C1C,5C1C,4C1C,3C1C,2C1C,1C8C,1C7C,1C6C,1C5C,1C4C,1C3C,1C2C,1C1C"/>		
+		<dip bits="32,33" name="Bonus King" ids="None,10000,20000,30000"/>
+		<dip bits="37" name="Year Display" ids="Yes,No"/>		
+		<dip bits="38" name="Free Game" ids="Normal Game,Free Game"/>		
+		<dip bits="39" name="Coin Slots" ids="A and B,A only"/>		
+	</switches>		
+	<rom index="0" md5="none" zip="junglek.zip" type="merged|nonmerged">
+		<part crc="6f2ac11f" name="j1.bin"/>
+		<part crc="07cc9a21" name="j2.bin"/>
+		<part crc="a20e5a48" name="j3.bin"/>
+		<part crc="19ea7f83" name="j4.bin"/>
+		<part crc="844365ea" name="j5.bin"/>
+		<part crc="27a95fd5" name="j6.bin"/>
+		<part crc="5c3199e0" name="j7.bin"/>
+		<part crc="895e5708" name="j8.bin"/>
+		<part crc="6f2ac11f" name="j1.bin"/>
+		<part crc="07cc9a21" name="j2.bin"/>
+		<part crc="a20e5a48" name="j3.bin"/>
+		<part crc="19ea7f83" name="j4.bin"/>
+		<part crc="844365ea" name="j5.bin"/>
+		<part crc="27a95fd5" name="j6.bin"/>
+		<part repeat="0x1000"> 00 </part>
+		<part crc="1a9c0a26" name="j9.bin"/>
+		<part crc="8f83c290" name="j13.bin"/>
+		<part crc="89fd19f1" name="j14.bin"/>
+		<part crc="70e8fc12" name="j15.bin"/>
+		<part crc="bcbac1a3" name="j16.bin"/>
+		<part crc="b946c87d" name="j17.bin"/>
+		<part crc="320db2e1" name="j18.bin"/>
+		<part crc="8438eb41" name="j19.bin"/>
+		<part crc="932eb667" name="j20.bin"/>
+		<part crc="dee7f5d4" name="j10.bin"/>
+		<part crc="bffd3d21" name="j11.bin"/>
+		<part crc="cee485fc" name="j12.bin"/>
+		<part repeat="0x1000"> 00 </part>
+		<part crc="b833b5ea" name="eb16.22"/>
+		<part repeat="0x0F00"> 00 </part>
+    </rom>
+	<rom index="1">
+		<part>1</part>
+	</rom>			
+</misterromdescription>
